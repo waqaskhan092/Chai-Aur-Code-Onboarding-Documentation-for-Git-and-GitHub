@@ -32,6 +32,9 @@ Before Git became popular, developers used proprietary systems like SCCS (Source
 
 #### Windows:
 
+![Download git](screenshots/git-downlaod-screenshot.png)
+![Download git For windows](screenshots/git-downlaod-screenshot-for windows.png)
+
 1. Download the Git installer from <a href="https://git-scm.com/" target="_blank">git-scm.com</a>.
 2. Run the installer and follow the prompts.
 3. Verify the installation by opening a terminal and running:
