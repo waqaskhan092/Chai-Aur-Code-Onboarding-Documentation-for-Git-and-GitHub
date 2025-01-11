@@ -32,7 +32,7 @@ Before Git became popular, developers used proprietary systems like SCCS (Source
 
 #### Windows:
 
-1. Download the Git installer from [git-scm.com](https://git-scm.com/).
+1. Download the Git installer from <a href="https://git-scm.com/" target="_blank">git-scm.com</a>.
 2. Run the installer and follow the prompts.
 3. Verify the installation by opening a terminal and running:
    ```bash
@@ -73,7 +73,7 @@ git config --global user.email "your.email@example.com"
 
 ### Step 3: Create a GitHub Account
 
-If you don’t have a GitHub account, sign up at [github.com](https://github.com/).
+If you don’t have a GitHub account, sign up at <a href="https://github.com/" target="_blank">github.com</a>.
 
 ---
 
@@ -191,4 +191,4 @@ At ChaiCode, we use the following branching strategy:
 
 ---
 
-Good luck, and welcome to ChaiCode!
+Good luck!
